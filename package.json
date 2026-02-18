@@ -1,0 +1,8 @@
+{
+  "name": "razz-backend",
+  "dependencies": {
+    "express": "^4.18.2",
+    "pdfkit": "^0.13.0",
+    "cors": "^2.8.5"
+  }
+}
